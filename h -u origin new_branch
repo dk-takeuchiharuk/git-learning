@@ -1,0 +1,35 @@
+[33mcommit 63efb23596db81521cfc9881cbe18dd3ab39df9c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew_branch[m[33m, [m[1;33mtag: [m[1;33mv1.0.0[m[33m)[m
+Author: dk-takeuchiharuk <haruka2.takeuchi@daikin.co.jp>
+Date:   Thu Oct 29 02:36:41 2026 +0000
+
+    feature:新しいブランチでの作業が完了しました！表示
+
+[33mcommit 7aaae156bf19c7c7176049060601e083a5cab645[m
+Author: dk-takeuchiharuk <haruka2.takeuchi@daikin.co.jp>
+Date:   Thu Oct 29 02:34:08 2026 +0000
+
+    feature:新しいブランチを作成しました！を表示する
+
+[33mcommit 3d8c318623aa2a79f1337f3c71d9c6a2e7cafd7b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: dk-takeuchiharuk <haruka2.takeuchi@daikin.co.jp>
+Date:   Thu Oct 29 02:17:43 2026 +0000
+
+    feature:（）さん元気ですか？を表示
+
+[33mcommit 769c88558644a3e87a7b4ef745334c6d301d1e5d[m
+Author: dk-takeuchiharuk <haruka2.takeuchi@daikin.co.jp>
+Date:   Thu Oct 29 02:10:59 2026 +0000
+
+    　feature:名前を入力しtara
+
+[33mcommit 5a778c4760dac8eac20543ac93c4969d69b42975[m
+Author: dk-takeuchiharuk <haruka2.takeuchi@daikin.co.jp>
+Date:   Thu Oct 29 02:02:24 2026 +0000
+
+    fix: ログイン時のバリデーションエラーが表示されない不具合を修正
+
+[33mcommit c6b24421ef67dd9c48b4af505596f801b92fed04[m
+Author: dk-takeuchiharuk <haruka2.takeuchi@daikin.co.jp>
+Date:   Thu Oct 29 10:56:24 2026 +0900
+
+    Initial commit
